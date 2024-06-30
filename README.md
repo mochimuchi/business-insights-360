@@ -37,6 +37,8 @@ This is an end-to-end data analysis and Power BI project based on an imaginary c
 ### Dashboards Overview
 The homepage features buttons for accessing different views: Info, Finance, Sales, Marketing, Supply Chain, Executive, and Support.
 
+![dashboard overview](https://github.com/mochimuchi/business-insights-360/blob/main/Resources/home%20view.png)
+
 ### Finance View
 - P&L statements
 - Top-performing and bottom-performing products and customers
@@ -44,20 +46,30 @@ The homepage features buttons for accessing different views: Info, Finance, Sale
 - Year-on-year comparison of P&L
 - Net sales performance vs. last year and vs. target, aiding in decision-making by comparing past performance with targets
 
+![dashboard overview](https://github.com/mochimuchi/business-insights-360/blob/main/Resources/home%20view.png)
+
 ### Sales View
 - Top-performing and bottom-performing customers with key metrics
 
+![dashboard overview](https://github.com/mochimuchi/business-insights-360/blob/main/Resources/finance%20view.png)
+
 ### Marketing View
 - Similar to the Sales View, but product-focused instead of customer-focused
+
+![dashboard overview](https://github.com/mochimuchi/business-insights-360/blob/main/Resources/marketing%20view.png)
 
 ### Supply Chain View
 - Insights into reliability and accuracy to better understand supply chain performance
 - Emphasizes the importance of timely planning to reduce operating costs
 - Balancing inventory costs and on-time delivery to prevent business harm
 
+![dashboard overview](https://github.com/mochimuchi/business-insights-360/blob/main/Resources/supply%20chain%20view.png)
+
 ### Executive View
 - Integrated key insights for executives
 - Provides a high-level overview for stakeholders to stay informed about each department's performance without delving into details
+
+![dashboard overview](https://github.com/mochimuchi/business-insights-360/blob/main/Resources/executive%20view.png)
 
 ---
 
