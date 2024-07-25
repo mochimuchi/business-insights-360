@@ -1,7 +1,7 @@
 # AtliQ Hardware Business Insights
 
 ## Project Overview
-This is an end-to-end data analysis and Power BI project based on an imaginary company called AtliQ Hardware. AtliQ Hardware manufactures and sells hardware like PCs, mice, printers, etc., to multiple companies worldwide. These customers are of two types - physical stores and e-commerce platforms. AtliQ Hardware, a rapidly expanding company, is struggling to do good business in Latin America. So far, all the decisions that AtliQ took have been based on some surveys and intuitions. Now, they have decided to implement data analytics using Power BI in their company for the first time to make data-driven decisions.
+This is an end-to-end data analysis project based on an imaginary company called AtliQ Hardware. AtliQ Hardware manufactures and sells hardware like PCs, mice, printers, etc., to multiple companies worldwide. These customers are of two types - physical stores and e-commerce platforms. AtliQ Hardware, a rapidly expanding company, is struggling to do good business in Latin America. So far, all the decisions that AtliQ took have been based on some surveys and intuitions. Now, they have decided to implement data analytics using Power BI in their company for the first time to make data-driven decisions.
 
 **[Link to Interactive Dashboard](https://project.novypro.com/uEtWmo)**
 
@@ -13,24 +13,32 @@ This is an end-to-end data analysis and Power BI project based on an imaginary c
 - DAX Studio
 
 ## Power BI Techniques Learned
-- Identifying critical questions before project initiation
-- Creating calculated columns
-- Developing measures using DAX language
-- Data modeling
-- Utilizing bookmarks for visual switching
-- Page navigation with buttons
-- Using the divide function to prevent zero division errors
-- Creating date tables using M language
-- Dynamic titles based on applied filters
-- Using KPI indicators
-- Conditional formatting in visuals using icons or background colors
-- Data validation techniques
-- Power BI services
-- Publishing reports to Power BI services
-- Setting up a personal gateway for auto-refreshing data
-- Power BI App creation
-- Collaboration, workspace, and access permissions in Power BI services
-- Analyzing business transactions such as profit %, gross margin %, forecast %, and sales comparisons from previous periods
+- **Critical Question Identification**: Determining key questions to guide the project.
+- **Calculated Columns & Measures**: Creating calculated columns and developing measures using DAX language.
+- **Data Modeling**: Structuring data for optimal analysis.
+- **Bookmarks & Page Navigation**: Utilizing bookmarks for visual switching and implementing page navigation with buttons.
+- **Divide Function**: Using the divide function to prevent zero division errors.
+- **Date Tables**: Creating date tables using M language.
+- **Dynamic Titles**: Implementing dynamic titles based on applied filters.
+- **KPI Indicators**: Using KPI indicators to track key metrics.
+- **Conditional Formatting**: Applying conditional formatting in visuals using icons or background colors.
+- **Data Validation**: Performing data validation techniques.
+- **Power BI Services**: Publishing reports to Power BI services and setting up a personal gateway for auto-refreshing data.
+- **Power BI App Creation**: Developing Power BI apps and managing collaboration, workspace, and access permissions.
+- **Business Analysis**: Analyzing key business transactions such as profit %, gross margin %, forecast %, and sales comparisons from previous periods.
+
+## SQL Skills and Data Engineering
+
+In addition to Power BI, I acquired extensive SQL skills essential for data manipulation and analysis:
+
+- **Advanced Query Techniques**: Mastered the use of subqueries, common table expressions (CTEs), views, and temporary tables for efficient data handling.
+- **ETL Processes & Data Warehousing**: Gained insights into extract, transform, load (ETL) processes, data warehousing concepts, and the distinctions between OLAP and OLTP systems.
+- **User-Defined Functions & Stored Procedures**: Developed and utilized user-defined functions and stored procedures to enhance code reusability and performance.
+- **Window Functions**: Explored advanced analytical functions such as OVER, ROW_NUMBER, RANK, and DENSE_RANK for complex calculations and analysis within result sets.
+- **Data Types**: Worked with various data types, including BLOB, ENUM, DOUBLE, TINYINT, SMALLINT, FLOAT, DECIMAL, and VARCHAR.
+- **Data Modeling**: Differentiated between fact and dimension tables and understood the concepts of star and snowflake schemas. Fact tables are normalized and contain transaction data, while dimension tables, which are highly denormalized, include attributes like customers and regions.
+- **Data Engineering**: Explored essential data engineering aspects, such as indexes, triggers, events, user accounts, and privileges, crucial for building robust solutions.
+- **Real-World Data Application**: Engaged in project-based learning with a dataset of over 1 million records, applying skills in a real-world context and developing a strong foundation for handling large data volumes.
 
 ## Overall Report
 
